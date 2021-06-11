@@ -1,4 +1,7 @@
 # BelyaevIVT1-20
 
-TaSK
+Task
+
+
+
 Create a library for finding the determinant of a square matrix.
